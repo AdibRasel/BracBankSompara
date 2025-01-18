@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/BracBankSompara/static/css/main.5411400d.css",
-    "main.js": "/BracBankSompara/static/js/main.768de42c.js",
-    "static/media/ImoIcon.png": "/BracBankSompara/static/media/ImoIcon.06910d8fc74ef2da0270.png",
-    "static/media/EmailIcon.png": "/BracBankSompara/static/media/EmailIcon.9800434dcd844b3dca3f.png",
-    "static/media/WhatsppIcon.png": "/BracBankSompara/static/media/WhatsppIcon.0fa9689266b64db457ec.png",
-    "index.html": "/BracBankSompara/index.html",
-    "main.5411400d.css.map": "/BracBankSompara/static/css/main.5411400d.css.map",
-    "main.768de42c.js.map": "/BracBankSompara/static/js/main.768de42c.js.map"
+    "main.css": "/BankAsiaShahapur/static/css/main.5411400d.css",
+    "main.js": "/BankAsiaShahapur/static/js/main.c4fffe18.js",
+    "static/media/ImoIcon.png": "/BankAsiaShahapur/static/media/ImoIcon.06910d8fc74ef2da0270.png",
+    "static/media/EmailIcon.png": "/BankAsiaShahapur/static/media/EmailIcon.9800434dcd844b3dca3f.png",
+    "static/media/WhatsppIcon.png": "/BankAsiaShahapur/static/media/WhatsppIcon.0fa9689266b64db457ec.png",
+    "index.html": "/BankAsiaShahapur/index.html",
+    "main.5411400d.css.map": "/BankAsiaShahapur/static/css/main.5411400d.css.map",
+    "main.c4fffe18.js.map": "/BankAsiaShahapur/static/js/main.c4fffe18.js.map"
   },
   "entrypoints": [
     "static/css/main.5411400d.css",
-    "static/js/main.768de42c.js"
+    "static/js/main.c4fffe18.js"
   ]
 }
