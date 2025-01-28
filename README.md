@@ -1,6 +1,6 @@
 # BRAC BANK 
 
-[Live Demo](https://adibrasel.github.io/BracBankSompara/)
+[Live Demo](https://adibrasel.github.io/BankAsiaGazipur/)
 
 ## Overview
 The **BankAsiaShahapur** project is a comprehensive solution for managing and calculating various banking-related tasks. This application offers features such as QR code generation for bank account details, as well as calculations for remittance, DPS, FDR, and loans. It is designed to be user-friendly and efficient, making complex banking operations simpler.
@@ -13,7 +13,7 @@ The **BankAsiaShahapur** project is a comprehensive solution for managing and ca
 - **Loan Calculation**: Efficiently calculate loan repayments and associated details.
 
 ## Usage
-1. Access the application via the [live demo link](https://adibrasel.github.io/BracBankSompara/).
+1. Access the application via the [live demo link](https://adibrasel.github.io/BankAsiaGazipur/).
 2. Explore the features:
    - Generate QR codes for bank account details.
    - Perform calculations for remittance, DPS, FDR, and loans.
