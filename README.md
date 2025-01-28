@@ -1,4 +1,4 @@
-# BRAC BANK 
+# Bank Asia
 
 [Live Demo](https://adibrasel.github.io/BankAsiaGazipur/)
 
